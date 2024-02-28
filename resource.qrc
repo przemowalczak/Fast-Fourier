@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/icons8-opened-folder-48.png</file>
+        <file>img/pdf-icon-16.png</file>
+        <file>img/winfo-icon-exit-16.png</file>
+        <file>img/up-arrow_608336.png</file>
+        <file>img/download-arrow_109609.png</file>
+        <file>img/arrow.png</file>
+        <file>img/return.png</file>
+    </qresource>
+</RCC>
