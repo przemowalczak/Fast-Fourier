@@ -1,2 +1,9 @@
+to instal:
 qmake
 make
+
+requirements:
+gsl
+gsl-dev
+Qt (ver. 5 or highrer)
+nfft3 library https://www-user.tu-chemnitz.de/~potts/nfft/
